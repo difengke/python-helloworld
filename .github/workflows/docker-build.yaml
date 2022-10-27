@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: difengke/python-helloworld:latest
+          tags: difengke/python-helloworld:v2.0
